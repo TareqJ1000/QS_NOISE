@@ -1,0 +1,9 @@
+n_coeffs: 5
+instance_name: 'first_genetic_algorithm'
+num_generations: 2
+parents_mating: 4
+sol_per_pop: 60
+num_contestants: 4
+num_elitists: 1
+percentage_mutation: 10
+
